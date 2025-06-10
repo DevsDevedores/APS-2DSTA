@@ -15,13 +15,13 @@ https://trello.com/b/wUuuIzSs
 
 | Função        | Nome              | Github    |
 | ------------- | ----------------- |------------|
-| Dev           | Adegilson Torres  | [Clique Aqui] (https://github.com/adegilsontorres)|
-| Dev           | Alexandre         | [Clique Aqui] (https://github.com/)|
-| Dev           | Ana J. Faria      | [Clique Aqui] (https://github.com/)|
-| Dev           | Beatriz           | [Clique Aqui] (https://github.com/)|
-| Dev           | Bruno             | [Clique Aqui] (https://github.com/)|
-| Dev           | Daniel Alencar    | [Clique Aqui] (https://github.com/)|
-| Dev           | Filipe Barbosa    | [Clique Aqui] (https://github.com/)|
-| Dev           | Letícia Brandão   | [Clique Aqui] (https://github.com/)|
+| Dev           | Adegilson Torres  | (https://github.com/adegilsontorres)|
+| Dev           | Alexandre         | (https://github.com/aLexandreMxreira)|
+| Dev           | Ana J. Faria      | (https://github.com/cybermapi.png)|
+| Dev           | Beatriz           | (https://github.com/)|
+| Dev           | Bruno             | (https://github.com/)|
+| Dev           | Daniel Alencar    | (https://github.com/)|
+| Dev           | Filipe Barbosa    | (https://github.com/)|
+| Dev           | Letícia Brandão   | (https://github.com/)|
 
 
