@@ -12,7 +12,6 @@ https://trello.com/b/wUuuIzSs
 
 # EQUIPE
 
-
 | Função        | Nome              | Github    |
 | ------------- | ----------------- |------------|
 | Dev           | Adegilson Torres  | (https://github.com/adegilsontorres)|
@@ -20,8 +19,8 @@ https://trello.com/b/wUuuIzSs
 | Dev           | Ana J. Faria      | (https://github.com/cybermapi)|
 | Dev           | Beatriz           | (https://github.com/)|
 | Dev           | Bruno             | (https://github.com/)|
-| Dev           | Daniel Alencar    | (https://github.com/)|
-| Dev           | Filipe Barbosa    | (https://github.com/)|
-| Dev           | Letícia Brandão   | (https://github.com/)|
+| Dev           | Daniel Alencar    | (https://github.com/oalencarsouza) |
+| Dev           | Filipe Barbosa    | (https://github.com/filipebarbosa059)|
+| Dev           | Letícia Brandão   | (https://github.com/letbveiga)|
 
 
