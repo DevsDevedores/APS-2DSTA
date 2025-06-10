@@ -11,6 +11,7 @@ https://trello.com/b/wUuuIzSs
 
 # EQUIPE
 
+
 | Função        | Nome              | Github    |
 | ------------- | ----------------- | [Clique Aqui] (https://github.com/adegilsontorres)|
 | Dev           | Adegilson Torres  | [Clique Aqui] (https://github.com/)|
