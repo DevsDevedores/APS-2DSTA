@@ -13,8 +13,8 @@ https://trello.com/b/wUuuIzSs
 
 
 | Função        | Nome              | Github    |
-| ------------- | ----------------- | [Clique Aqui] (https://github.com/adegilsontorres)|
-| Dev           | Adegilson Torres  | [Clique Aqui] (https://github.com/)|
+| ------------- | ----------------- |------------|
+| Dev           | Adegilson Torres  | [Clique Aqui] (https://github.com/adegilsontorres)|
 | Dev           | Alexandre         | [Clique Aqui] (https://github.com/)|
 | Dev           | Ana J. Faria      | [Clique Aqui] (https://github.com/)|
 | Dev           | Beatriz           | [Clique Aqui] (https://github.com/)|
