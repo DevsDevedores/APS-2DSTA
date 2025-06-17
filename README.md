@@ -1,7 +1,7 @@
 
 # SOBRE
 ## SISTEMA DE CONTROLE DE ESTACIONAMENTO
-O projeto consiste em criar um upgrade de serviços e tecnlogias para um estacionamento
+O projeto consiste em criar um upgrade de serviços e tecnologias para um estacionamento
 
 # TECNOLOGIAS USADAS
 - Miro
@@ -41,10 +41,12 @@ https://trello.com/b/wUuuIzSs
 | Dev           | Adegilson Torres  | [GitHub](https://github.com/adegilsontorres)|
 | Dev           | Alexandre         | [GitHub](https://github.com/aLexandreMxreira)|
 | Dev           | Ana J. Faria      | [GitHub](https://github.com/cybermapi)|
-| Dev           | Beatriz           | [GitHub](https://github.com/)|
-| Dev           | Bruno             | [GitHub](https://github.com/)|
-| Scrum Master           | Daniel Alencar    | [GitHub](https://github.com/oalencarsouza) |
+| Dev           | Beatriz           | [GitHub](https://github.com/beatrizrmacedo)|
+| Dev           | Bruno             | [GitHub](https://github.com/BrunoEstanSilva)|
+| Scrum Master  | Daniel Alencar    | [GitHub](https://github.com/oalencarsouza) |
+| Dev           | Flávio Piovesan   | [GitHub](https://github.com/Doutii) |
 | Dev           | Filipe Barbosa    | [GitHub](https://github.com/filipebarbosa059)|
-| Product Owner           | Letícia Brandão   | [GitHub](https://github.com/letbveiga)|
+| Dev           | Jamilly Evelyn    | [GitHub](https://github.com/jaja-j)|
+| Product Owner | Letícia Brandão   | [GitHub](https://github.com/letbveiga)|
 
 
