@@ -19,6 +19,7 @@
 | SIM           | Estacionamento exclusivo para bicicleta e motos (preços diferenciais)  |
 
 # MAPA MENTAL
+https://github.com/DevsDevedores/APS-2DSTA/blob/main/Sistema%20de%20Controle%20de%20Estacionamento%20%2B%20IDEIA%20INOVADORA.pdf
 
 # LINKS
 https://trello.com/b/wUuuIzSs
