@@ -29,13 +29,13 @@ https://trello.com/b/wUuuIzSs
 
 | Função        | Nome              | Github    |
 | ------------- | ----------------- |------------|
-| Dev           | Adegilson Torres  | (https://github.com/adegilsontorres)|
-| Dev           | Alexandre         | (https://github.com/aLexandreMxreira)|
-| Dev           | Ana J. Faria      | (https://github.com/cybermapi)|
-| Dev           | Beatriz           | (https://github.com/)|
-| Dev           | Bruno             | (https://github.com/)|
-| Dev           | Daniel Alencar    | (https://github.com/oalencarsouza) |
-| Dev           | Filipe Barbosa    | (https://github.com/filipebarbosa059)|
-| Dev           | Letícia Brandão   | (https://github.com/letbveiga)|
+| Dev           | Adegilson Torres  | [GitHub](https://github.com/adegilsontorres)|
+| Dev           | Alexandre         | [GitHub](https://github.com/aLexandreMxreira)|
+| Dev           | Ana J. Faria      | [GitHub](https://github.com/cybermapi)|
+| Dev           | Beatriz           | [GitHub](https://github.com/)|
+| Dev           | Bruno             | [GitHub](https://github.com/)|
+| Dev           | Daniel Alencar    | [GitHub](https://github.com/oalencarsouza) |
+| Dev           | Filipe Barbosa    | [GitHub](https://github.com/filipebarbosa059)|
+| Dev           | Letícia Brandão   | [GitHub](https://github.com/letbveiga)|
 
 
