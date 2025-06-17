@@ -1,8 +1,10 @@
 
 # SOBRE
 ## SISTEMA DE CONTROLE DE ESTACIONAMENTO
+O projeto consiste em criar um upgrade de serviços e tecnlogias para um estacionamento
 
 # TECNOLOGIAS USADAS
+- Miro
 
 # IDEIAS PROPOSTAS
 
@@ -21,6 +23,13 @@
 # MAPA MENTAL
 [Baixe o arquivo PDF](https://github.com/DevsDevedores/APS-2DSTA/blob/main/Sistema%20de%20Controle%20de%20Estacionamento%20%2B%20IDEIA%20INOVADORA.pdf)
 
+# BACKLOG
+## TAREFAS
+- mapa mental com a ideia inovadora
+- cronograma
+- setorização e logística para cada tipo de veículo
+- setorização e logística para serviços especiais
+- logística para pagamento e reservas
 
 # LINKS
 https://trello.com/b/wUuuIzSs
@@ -34,8 +43,8 @@ https://trello.com/b/wUuuIzSs
 | Dev           | Ana J. Faria      | [GitHub](https://github.com/cybermapi)|
 | Dev           | Beatriz           | [GitHub](https://github.com/)|
 | Dev           | Bruno             | [GitHub](https://github.com/)|
-| Dev           | Daniel Alencar    | [GitHub](https://github.com/oalencarsouza) |
+| Scrum Master           | Daniel Alencar    | [GitHub](https://github.com/oalencarsouza) |
 | Dev           | Filipe Barbosa    | [GitHub](https://github.com/filipebarbosa059)|
-| Dev           | Letícia Brandão   | [GitHub](https://github.com/letbveiga)|
+| Product Owner           | Letícia Brandão   | [GitHub](https://github.com/letbveiga)|
 
 
