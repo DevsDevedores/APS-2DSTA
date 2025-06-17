@@ -1,11 +1,24 @@
 
 # SOBRE
+## SISTEMA DE CONTROLE DE ESTACIONAMENTO
 
 # TECNOLOGIAS USADAS
 
-# BACKLOG
+# IDEIAS PROPOSTAS
 
-# WIREFRAME
+| Aprovado?        | Descrição             
+| ------------- | ----------------- |
+| NÃO           | Armazenamento giratório  |
+| NÃO           | Esteira e armazenamento  | 
+| NÃO           | Pernoite  |
+| NÃO           | Auto-atendimento |
+| SIM           | Lavagem a seco            |
+| SIM           | Mecânico de plantão    |
+| SIM           | Point de carga para carros elétricos    |
+| SIM           | convênio com posto de gasolina   |
+| SIM           | Estacionamento exclusivo para bicicleta e motos (preços diferenciais)  |
+
+# MAPA MENTAL
 
 # LINKS
 https://trello.com/b/wUuuIzSs
